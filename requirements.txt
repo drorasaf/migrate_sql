@@ -1,0 +1,6 @@
+sqlalchemy==1.1.14
+pymssql==2.1.3
+psycopg2==2.7.3.1
+#sudo apt-get install libmysqlclient-dev python3-dev
+pymongo==3.4.0
+celery
